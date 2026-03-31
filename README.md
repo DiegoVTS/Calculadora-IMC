@@ -23,7 +23,7 @@ Projeto desenvolvido para praticar manipulação do DOM, lógica condicional e S
 
 ## 🚀 Como acessar
 
-👉 [Acesse o projeto aqui](https://diegovts.github.io/calculadora-imc)
+👉 [Acesse o projeto aqui](https://diegovts.github.io/Calculadora-IMC/)
 
 ---
 
